@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+c:\users\admin\documents\visual studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+D:\Codes\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Codes\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Codes\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Codes\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
