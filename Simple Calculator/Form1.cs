@@ -33,7 +33,7 @@ namespace Simple_Calculator
         {
             Button btn = (Button)sender;
             string value = btn.Text;
-            if (Int32.TryParse(value, out int num))
+            if (Double.TryParse(value, out double num))
             {
                 if (isNewEntry || tbox.Text.Equals("0"))
                 {
@@ -75,50 +75,50 @@ namespace Simple_Calculator
         //4 operations =>>>> add, subtract, multiply, divide
         public double operationAdd()
         {
-            if (count == 1)
-            {
+            //if (count == 1)
+            //{
                 result = firstValue + secondValue;
-            }
-            else
-            {
-                result = result + secondValue;
-            }
+            //}
+            //else
+            //{
+            //    result = result + secondValue;
+            //}
             return result;
         }
         public double operationSubtract()
         {
-            if (count == 1)
-            {
+            //if (count == 1)
+            //{
                 result = firstValue - secondValue;
-            }
-            else
-            {
-                result = result - secondValue;
-            }
+            //}
+            //else
+            //{
+            //    result = result - secondValue;
+            //}
             return result;
         }
         public double operationMultiply()
         {
-            if (count == 1)
-            {
+            //if (count == 1)
+            //{
                 result = firstValue * secondValue;
-            }
-            else
-            {
-                result = result * secondValue;
-            }
+            //}
+            //else
+            //{
+            //    result = result * secondValue;
+            //}
             return result;
         }
         public double operationDivide()
         {
-            if (count == 1)
-            {
-                return result = firstValue / secondValue;
-            }
-            else
-            {
-                result = result / secondValue;
-            }
+            //if (count == 1)
+            //{
+                result = firstValue / secondValue;
+            //}
+            //else
+            //{
+            //    result = result / secondValue;
+            //}
             return result;       
         }
         //6 events =>>>> add, multiply, divide, subtract, equal, clear
@@ -155,6 +155,7 @@ namespace Simple_Calculator
             tbox.Text = "0";
             firstValue = 0;
             secondValue = 0;
+            //result = 0;
             isSecondValue = false;
         }
         private void btn_equal_Click(object sender, EventArgs e)
